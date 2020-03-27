@@ -1,4 +1,4 @@
-public class TeemuMain {
+public class MainTeemu {
 
 
     public static void main(String args[]) {
